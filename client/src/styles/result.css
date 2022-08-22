@@ -1,0 +1,13 @@
+.result-container {
+    width: 70vw;
+    background-color: white;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 10px;
+    height: 70vh;
+    overflow: scroll;
+}
+
+table {
+    border-spacing: 15px;
+}

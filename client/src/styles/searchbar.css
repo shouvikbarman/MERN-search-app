@@ -1,0 +1,31 @@
+.search-input-container {
+    display: flex;
+    position: relative;
+    margin-top: 50px;
+}
+.search-input {
+    height: 50px;
+    width: 70vw;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 2px 5px;
+}
+
+.search-button {
+    position: absolute;
+    height: 50px;
+    border: none;
+    background-color: white;
+    right: 0;
+    top: 2px;
+    border-radius: 10px;
+    z-index: 5;
+    cursor: pointer;
+}
+
+.search-button img {
+    height: 40px;
+    width: 40px;
+}

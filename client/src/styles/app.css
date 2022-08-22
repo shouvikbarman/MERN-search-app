@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+
+.App {
+    height: 100vh;
+    background: linear-gradient(to right, #654ea3, #eaafc8);
+    display: flex;
+    justify-content: center;
+}
